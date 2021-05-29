@@ -8,6 +8,7 @@
 
 
 *Swift Care* is a medicine website created by the stakeholder requirements (the professor). The purpose of this website was to experience creating a project in a software engineering environment where students work as a team and figure out ways to complete each module. In our case, we worked on an agile process model which was known as XP (Extreme Programming). 
+
 ---
 Technologies and Scripting/Markup Languages Used:
 - HTML, CSS, PHP, and MySQL
