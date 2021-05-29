@@ -1,0 +1,410 @@
+div.marginContentSpace {
+	display: block;
+	margin-top: 50px;
+}
+
+#imageTextCenter {
+	display: flex; 
+	align-items: center;
+}
+
+div.BoxPanel {
+	background-color: #cbcbcb;
+	border-radius: 25px;
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.8);
+}
+
+#HeaderPanel {
+	width: 90%;
+	height: 160px;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	align-items: center;
+}
+
+#CategoryPanel {
+	position: relative;
+	width: 250px;
+	height: 210px;
+	padding: 20px;
+}
+
+#LoginPanel {
+	position: relative;
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: 50px; 
+	text-align:center;
+	width: 500px;  
+	padding: 20px;
+}
+
+#MessagePanel {
+	position: relative;
+	width: 250px;
+	height: 30px;
+	padding: 20px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+div.ProductPanel {
+	display: inline-block; 
+	position: absolute; 
+	margin-left: 40px; 
+	margin-right: 180px;
+}
+
+img.LogoLarge {
+	max-width: 80px;
+}
+
+#ScLogoTitle {
+	margin-left: 5%;
+}
+
+img.LogoSmall {
+	max-width: 50px;
+}
+
+#LogoForm {
+	margin-left: auto;
+	display: inline;
+}
+
+#LogoLabel {
+	margin-left: auto;
+	display: inline;
+	margin-left: 121px; 
+	margin-right: 20px;
+}
+
+img.Icon {
+	width: 38px;
+}
+
+#UserIcon {
+	margin-left: 20px;
+}
+
+#ViewCartIcon {
+	margin-left: 10px;
+	margin-right: 30px;
+}
+
+#UserLogoutIcon {
+	margin-left: 15px;
+}
+
+#AdminIcon {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
+#LogoutIcon {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	border-radius: 20px; 
+	padding: 10px;
+	background-color: #a10000;
+}
+
+h1.OrbitronTitle {
+	font-family: Orbitron, sans-serif;
+	color: #283a89;
+}
+
+h1.SignikaTitle {
+	font-family: 'Signika', sans-serif;
+	color: #283a89;
+}
+
+#ScTitle {
+	font-size: 25pt;
+	margin-left: 10px;
+	flex-shrink: 0;
+}
+
+#CategoryTitle {
+	font-size: 32px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#TitleForm {
+	margin-right: auto;
+	font-size: 18pt;
+	display: inline;
+	margin-left: 10px;
+	flex-shrink: 0;
+}
+
+input.InputField {
+	border-radius: 25px;
+	padding: 15px;
+	border: 0;
+}
+
+#SearchField {
+	float: right;
+	width: 40%;
+	min-width: 120px;
+}
+
+#LoginSignupField {
+	width: 40%;
+	min-width: 120px;
+}
+
+input.SubmitButton {
+	font-family: 'Signika', sans-serif;
+	background-color: #283a89;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	border-radius: 25px;
+	border: 0;
+	cursor: pointer;
+	color: white;
+	font-size: 13pt;
+	padding: 12px;
+}
+
+input:focus {
+    outline: 0;
+}
+
+button.searchButton {
+	float: right;
+	border-radius: 25px;
+	padding: 9px;
+	border: 0;
+	outline: 0;
+	background-color: #283a89;
+	cursor: pointer;
+}
+
+a.ClickButton {
+	border-radius: 25px;
+	padding: 9px; 
+	border: 0; 
+	outline: 0; 
+	font-family: 'Signika', sans-serif; 
+	text-decoration:none; 
+	color: white;
+}
+
+#SignupButton {
+	background-color: #A2A2A2;
+}
+
+#AdminPanelButton {
+	background-color: #a10000; 
+	width: 180px;
+}
+
+#CheckoutButton {
+	background-color: #283a89;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	padding: 12px;
+}
+
+label.SignikaLabel {
+	font-family: 'Signika', sans-serif;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+#LabelForm {
+	display:inline-block; 
+	width: 120px;
+}
+
+p.SignikaText {
+	font-family: 'Signika', sans-serif;
+	color: #cbcbcb;
+}
+
+#footerText {
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.8);
+	display: inline-block;
+	position: relative;
+	font-size: 10pt;
+	line-height: 1.5;
+	margin-top: 5%;
+}
+
+#IncorrectInfo {
+	display: inline-block; 
+	margin-top: 30px; 
+	color: #5e5e5e; 
+	border: 2px solid #5e5e5e; 
+	padding: 5px; 
+	border-radius: 10px;
+	animation: FadeOut 5s;
+	animation-fill-mode: forwards;
+}
+
+#CorrectInfo {
+	display: inline-block; 
+	margin-top: 30px; 
+	color: #2F8E42; 
+	border: 2px solid #2F8E42; 
+	padding: 5px; 
+	border-radius: 10px;
+	animation: FadeOut 5s;
+	animation-fill-mode: forwards;
+}
+
+#MessageInfo {
+	display: inline-block;
+	margin: 0;  
+	color: #5e5e5e; 
+	border: 2px solid #5e5e5e; 
+	padding: 5px; 
+	border-radius: 10px;
+}
+
+@keyframes FadeOut {
+	0% {opacity: 1;}
+	100% {opacity: 0;}
+}
+
+#state {
+	display: inline-block;
+	color: black;
+	padding: 10px;
+	width: 50%;
+	min-width: 120px;
+	border: none;
+	border-radius: 50px;
+}
+
+#orderTitle {
+	font-family: Orbitron, sans-serif;
+	color: #283a89;
+	text-align: center;
+	margin-top: 30px;
+	text-align: center;
+}
+
+option {
+	font-family: 'Signika', sans-serif;
+	color: black;
+	font-weight: normal;
+}
+
+select {
+	font-family: 'Signika', sans-serif;
+	color: black;
+	font-weight: normal;
+	border-radius: 5px;
+	width: 60px;
+	font-size: 12pt;
+}
+
+img.PaypalLogo {
+	border-radius: 25px; 
+	background-color: #283a89; 
+	width: 110px; 
+	position: absolute; 
+	right: 150px; 
+	bottom: 20px; 
+	padding: 1px
+}
+
+table.TotalTable {
+	width: 50%; 
+	border-top: 4px solid #283a89; 
+	margin-top: 10px; 
+	margin-bottom: 60px; 
+	margin-left: auto;
+}
+
+th.TableHeader {
+	font-family: 'Signika', sans-serif;
+	color: #cbcbcb;
+	font-weight: normal;
+	padding: 5px;
+}
+
+#TotalText {
+	color: black;
+	text-align: left;
+	padding: 5px;
+}
+
+#TotalQuantityText {
+	color: black;
+	text-align: right;
+	padding: 5px;
+	font-family: 'Signika', sans-serif;
+	font-weight: normal;
+}
+
+img.CartIcon {
+	display: inline; 
+	float: left; 
+	margin-left: 10px; 
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+	border: 2px solid black; 
+	width: 90px; 
+	height: 90px;
+}
+
+input.RowButton {
+	font-family: 'Signika', sans-serif;
+	background-color: #283a89;
+	border-radius: 10px;
+	border: 0;
+	cursor: pointer;
+	color: white;
+	padding: 5px;
+	width: 60px;
+	display: block;
+	margin-top: 5px;
+}
+
+#CartProductText {
+	margin-bottom: 0; 
+	color: black; 
+	text-align: left; 
+	position: relative; 
+	left: 10px; 
+	font-size: 16pt;
+}
+
+#CartPriceText {
+	margin-top: 2px; 
+	margin-bottom: 0; 
+	color: black; 
+	text-align: left; 
+	position: relative; 
+	left: 10px;
+}
+
+a.RemoveItem {
+	font-family: 'Signika', sans-serif;
+	color: #cbcbcb;
+	color: #283a89; 
+	float: left; 
+	position: relative; 
+	left: 10px; 
+	margin-top: 2px;
+}
+
+#SubtotalText {
+	color: black; 
+	text-align: right; 
+	position: relative; 
+	right: 10px; 
+	font-size: 14pt;
+}

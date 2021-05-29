@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
+
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+html {
+	padding: 0px;
+	margin: 0px;
+	background-image: linear-gradient(to right, #405cd4, #121c44);
+	min-width: 1000px;
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+::-webkit-scrollbar {
+	width: 14px;
+}
+
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px black;
+	border: 1px solid black;
+	background: #283a89;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #405cd4;
+	border: 1px solid black;
+	border-radius: 5px;
+}
