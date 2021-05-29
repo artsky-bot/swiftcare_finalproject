@@ -1,8 +1,7 @@
 # Swift Care - CSIT415: Software Engineering II Project
 
 <div align = "center">
-	<img src = "https://github.com/artsky-bot/hawkheap_finalproject/blob/master/arthurteamProject/web_images/hawkheap_logo.png?raw=true" alt = "Red Hawk" width = "400px" height = "400px"/><br/><br/>
-	<center><img src = "https://github.com/artsky-bot/hawkheap_finalproject/blob/master/arthurteamProject/web_images/hawkheap_title.png?raw=true" alt = "Hawk Heap title" width = "400px" height= "60px"/></center>
+	<img src = "https://github.com/artsky-bot/swiftcare_finalproject/blob/main/swiftcare/images/sc_logo_doc.png?raw=true" alt = "Swift Care" width = "600px" height = "1000px"/>
 </div>
 
 
@@ -18,5 +17,5 @@ Technologies and Scripting/Markup Languages Used:
 
 ---
 Documentation:
-- [Swift Care Website Manual](https://github.com/artsky-bot/hawkheap_finalproject/blob/master/CSIT_%20337%20-%20Final%20Report%20-%20Arthur%20Levitsky.pdf)
-- [Swift Care Presentation Slides Download](https://github.com/artsky-bot/hawkheap_finalproject/blob/master/Hawk%20Heap%20-%20Website%20Presentation%20-%20Arthur%20Levitsky.pptx?raw=true)
+- [Swift Care Website Manual](https://github.com/artsky-bot/swiftcare_finalproject/blob/main/CSIT415%20-%20SE2%20Project%20Report.pdf)
+- [Swift Care Presentation Slides](https://github.com/artsky-bot/swiftcare_finalproject/blob/main/CSIT415%20-%20SE2%20Presentation.pdf)
