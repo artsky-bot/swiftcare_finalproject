@@ -1,7 +1,7 @@
 # Swift Care - CSIT415: Software Engineering II Project
 
 <div align = "center">
-	<img src = "https://github.com/artsky-bot/swiftcare_finalproject/blob/main/swiftcare/images/sc_logo_doc.png?raw=true" alt = "Swift Care" width = "600px" height = "1000px"/>
+	<img src = "https://github.com/artsky-bot/swiftcare_finalproject/blob/main/swiftcare/images/sc_logo_doc.png?raw=true" alt = "Swift Care"/>
 </div>
 
 
